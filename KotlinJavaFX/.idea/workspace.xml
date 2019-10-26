@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="935cfe16-d239-4105-a2e3-60a3d1739916" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/layouts/BorderPaneExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/layouts/GridPaneExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/layouts/TilePaneExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/bar-chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/binoculars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/chat-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/chat-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/cloud-computing-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/cloud-computing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/compass-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/compass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/computer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/connection-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/connection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/desk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/directions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/dislike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/dollar-symbol-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/dollar-symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/group-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/group-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/handshake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/hierarchical-structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/invoice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/laptop-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/laptop-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/laptop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/like-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/like-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/like-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/like-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/like-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/list-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/money-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/mouse-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/mouse-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/mouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/network-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/network.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/networking-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/networking-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/networking-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/networking-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/networking-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/networking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/padlock-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/padlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/people.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/pie-chart-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/pie-chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/piggy-bank-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/piggy-bank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/printer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/route.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/security.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/settings-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/settings-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/sharing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/shopping-bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/smartphone-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/smartphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/startup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/strategy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/teamwork.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/transfer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/transfer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/transfer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/worldwide-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/worldwide-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/worldwide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/wrench.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/wristwatch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/KotlinJavaFX.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/KotlinJavaFX.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scenes/SwitchingScenes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scenes/SwitchingScenes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scenes/SwitchingScenesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scenes/SwitchingScenesKt.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SLAEATYzzzUdYxnS6lTxVzCz2Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ttnny\Google Drive\_WORKSPACE\learning\kt\KotlinJavaFX\src\main\resources\icons" />
+      <recent name="C:\Users\ttnny\Google Drive\_WORKSPACE\learning\kt\KotlinJavaFX\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.layouts.TilePaneExampleKt">
+    <configuration name="fx.HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinJavaFX" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="fx.HelloWorldKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="layouts.BorderPaneExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinJavaFX" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="layouts.BorderPaneExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="layouts.GridPaneExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinJavaFX" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="layouts.GridPaneExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="layouts.TilePaneExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinJavaFX" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="layouts.TilePaneExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scenes.SwitchingScenesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinJavaFX" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="scenes.SwitchingScenesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.layouts.TilePaneExampleKt" />
+        <item itemvalue="Kotlin.layouts.BorderPaneExampleKt" />
+        <item itemvalue="Kotlin.layouts.GridPaneExampleKt" />
+        <item itemvalue="Kotlin.scenes.SwitchingScenesKt" />
+        <item itemvalue="Kotlin.fx.HelloWorldKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="935cfe16-d239-4105-a2e3-60a3d1739916" name="Default Changelist" comment="" />
+      <created>1571332387338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571332387338</updated>
+      <workItem from="1571332390296" duration="6618000" />
+      <workItem from="1571764154348" duration="5698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
