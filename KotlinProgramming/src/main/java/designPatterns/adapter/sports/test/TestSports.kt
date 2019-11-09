@@ -1,6 +1,8 @@
 package designPatterns.adapter.sports.test
 
+import designPatterns.adapter.sports.adapters.BBAthleteAdapter
 import designPatterns.adapter.sports.athletes.BaseballAthlete
+import designPatterns.adapter.sports.news.SportsNews
 
 fun main() {
     //create a few athletes...
@@ -13,4 +15,9 @@ fun main() {
     athlete2.addStat("stolen bases", 12)
 
     //report them...
+    val news = SportsNews()
+    news.trackAthlete(BBAthleteAdapter(athlete1))
+    news.trackAthlete(BBAthleteAdapter(athlete2))
+
+    news.printStats()
 }
