@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="406827e0-c045-4265-84e5-cc5b30df2be8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../KotlinJavaFX/target/classes/META-INF/KotlinJavaFX.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../KotlinJavaFX/target/classes/META-INF/KotlinJavaFX.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinJavaFX/target/classes/scenes/SwitchingScenes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KotlinJavaFX/target/classes/scenes/SwitchingScenes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinJavaFX/target/classes/scenes/SwitchingScenesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KotlinJavaFX/target/classes/scenes/SwitchingScenesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../go" beforeDir="false" afterPath="$PROJECT_DIR$/../../go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.." beforeDir="false" afterPath="$PROJECT_DIR$/.." afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-hibernate" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-hibernate" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -61,18 +65,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Kotlin" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="designPatterns.factory.factoryMethodPattern.advertisements" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="designPatterns.adapter.sports.athletes" />
       <recent name="designPatterns.observer.example1.components" />
       <recent name="designPatterns.observer.example1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ttnny\Google Drive\_WORKSPACE\learning\kotlin\KotlinProgramming\src\main\java\designPatterns\facade\shapes" />
       <recent name="C:\Users\ttnny\Google Drive\_WORKSPACE\learning\kt\KotlinProgramming\src\designPatterns\observer\program" />
       <recent name="C:\Users\ttnny\Google Drive\_WORKSPACE\learning\kt\KotlinProgramming\src\intro" />
     </key>
@@ -89,7 +98,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.oop.ABitOfClassKt">
+  <component name="RunManager" selected="Application.Driver (1)">
+    <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.flyweight.Driver" />
+      <module name="KotlinProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPatterns.state.ceiling_fan_example.Driver" />
       <module name="KotlinProgramming" />
@@ -103,27 +125,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intermediate.SlideProblemsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="designPatterns.prototype.copies.VehicleTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="intermediate.SlideProblemsKt" />
+      <option name="MAIN_CLASS_NAME" value="designPatterns.prototype.copies.VehicleTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intro.LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="intro.MiscKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="intro.LambdaKt" />
+      <option name="MAIN_CLASS_NAME" value="intro.MiscKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,26 +164,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.GymMembershipKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="oop.GymMembershipKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver (1)" />
+        <item itemvalue="Kotlin.designPatterns.prototype.copies.VehicleTestKt" />
+        <item itemvalue="Kotlin.intro.MiscKt" />
         <item itemvalue="Kotlin.oop.ABitOfClassKt" />
         <item itemvalue="Application.Driver" />
-        <item itemvalue="Kotlin.intro.LambdaKt" />
-        <item itemvalue="Kotlin.oop.GymMembershipKt" />
-        <item itemvalue="Kotlin.intermediate.SlideProblemsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +208,21 @@
       <workItem from="1571677986191" duration="17000" />
       <workItem from="1571940638353" duration="1053000" />
       <workItem from="1572065339268" duration="18000" />
+      <workItem from="1572321625125" duration="12121000" />
+      <workItem from="1572372242772" duration="1324000" />
+      <workItem from="1572425523725" duration="30000" />
+      <workItem from="1572631344195" duration="2418000" />
+      <workItem from="1573116475977" duration="149000" />
+      <workItem from="1573117029180" duration="10000" />
+      <workItem from="1573149879152" duration="5876000" />
+      <workItem from="1573239814754" duration="19000" />
+      <workItem from="1573241045915" duration="1415000" />
+      <workItem from="1573271243226" duration="742000" />
+      <workItem from="1573544496042" duration="6000" />
+      <workItem from="1573844996493" duration="2588000" />
+      <workItem from="1574040030895" duration="116000" />
+      <workItem from="1574243668028" duration="2970000" />
+      <workItem from="1574791603352" duration="7576000" />
     </task>
     <servers />
   </component>
