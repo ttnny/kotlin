@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="406827e0-c045-4265-84e5-cc5b30df2be8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../design-patterns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.." afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../go" beforeDir="false" afterPath="$PROJECT_DIR$/../../go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.." beforeDir="false" afterPath="$PROJECT_DIR$/.." afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinProgramming.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-hibernate" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-hibernate" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -222,7 +221,7 @@
       <workItem from="1573844996493" duration="2588000" />
       <workItem from="1574040030895" duration="116000" />
       <workItem from="1574243668028" duration="2970000" />
-      <workItem from="1574791603352" duration="7576000" />
+      <workItem from="1574791603352" duration="8192000" />
     </task>
     <servers />
   </component>
